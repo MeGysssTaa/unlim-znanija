@@ -1,4 +1,4 @@
-# Unlimited znanija.com
+# unlim-znanija
 
 > Онлайн-сервис для обхода ограничений на просмотры и блокировки рекламы на znanija.com.
 
