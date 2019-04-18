@@ -62,7 +62,7 @@ public class TaskController {
 
         if ((taskId == null) || (!((taskId = taskId.trim()).
                 replaceAll("[0-9]", "").isEmpty())))
-            return "ID вопроса указан не верно или не указан вообще (ты сделал(а) что-то не так)";
+            return "ID вопроса указан неверно или не указан вообще (ты сделал(а) что-то не так)";
 
         System.out.println("Processing request from " + ip + " with taskId = " + taskId);
 
