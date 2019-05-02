@@ -31,7 +31,7 @@ repositories {
 group 'me.darksidecode.unlimznanija'
 version '1.0.0'
 
-mainClassName = 'club.pvpnation.webapi.PVPNationWebAPI'
+mainClassName = 'me.darksidecode.unlimznanija.UnlimZnanijaWebApp'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
